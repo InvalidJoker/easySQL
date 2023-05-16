@@ -7,7 +7,6 @@ EasySQL is a lightweight library that simplifies SQL queries by providing a set 
 - **Simplified Syntax**: EasySQL abstracts the complexities of SQL syntax and provides a simplified API for interacting with databases.
 - **Function-based Approach**: Instead of writing SQL queries, EasySQL allows you to perform common database operations using functions, reducing the learning curve for developers.
 - **Type Safety**: EasySQL leverages type safety to prevent common SQL-related errors, such as incorrect column names or mismatched data types.
-- **Database-agnostic**: EasySQL is designed to work with various databases, including MySQL, PostgreSQL, SQLite, and more.
 - **Efficient Execution**: EasySQL optimizes query execution and minimizes round trips to the database, resulting in improved performance.
 
 ## Installation
@@ -15,6 +14,10 @@ EasySQL is a lightweight library that simplifies SQL queries by providing a set 
 ```shell
 pip install easysql
 ```
+
+## Contributors
+- InvalidJokerDE
+- Miko0187
 
 ## License
 
